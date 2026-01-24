@@ -30,13 +30,13 @@
             //                    | GUI | LWR | SPC | ENT | RSE  | ALT |
 
             bindings = <
-&kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp BSPC  &kp LCTRL  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SQT  &kp LSHFT  &mt LEFT_GUI Z  &mt LEFT_ALT X  &mt LCTRL C  &mt LEFT_SHIFT V  &kp B  &kp N  &mt RIGHT_SHIFT M  &mt RIGHT_CONTROL COMMA  &mt RIGHT_ALT PERIOD  &mt RIGHT_GUI SLASH  &kp ESC  &mo 1  &kp BACKSPACE  &lt 2 ESC  &lt 2 RET  &kp SPACE  &mo 1
+&kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp BSPC  &kp LCTRL  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SQT  &kp LSHFT  &mt LEFT_GUI Z  &mt LEFT_ALT X  &mt LCTRL C  &mt LEFT_SHIFT V  &kp B  &kp N  &mt RIGHT_SHIFT M  &mt RIGHT_CONTROL COMMA  &mt RIGHT_ALT PERIOD  &mt RIGHT_GUI SLASH  &kp RIGHT_SHIFT  &mo 1  &kp BACKSPACE  &lt 2 ESC  &lt 2 RET  &kp SPACE  &mo 1
             >;
         };
 
         symbols {
             bindings = <
-&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp GRAVE  &kp LCTRL  &kp LS(LBKT)  &kp LS(RBKT)  &kp LS(N9)  &kp LS(N0)  &kp LS(N4)  &kp LS(N1)  &kp EQUAL  &kp LS(EQUAL)  &kp LS(N8)  &kp MINUS  &kp LS(MINUS)  &kp LSHFT  &mt LEFT_GUI LS(NUMBER_2)  &mt LEFT_ALT LS(NUMBER_3)  &mt LCTRL LEFT_BRACKET  &mt LEFT_SHIFT RIGHT_BRACKET  &kp LS(GRAVE)  &kp LS(BSLH)  &mt RIGHT_SHIFT LS(N7)  &mt RCTRL LS(N5)  &mt RIGHT_ALT LS(NUMBER_6)  &mt RIGHT_GUI BACKSLASH  &kp DEL  &kp LEFT_ALT  &kp DEL  &kp ESC  &kp ENTER  &kp SPACE  &kp RIGHT_ALT
+&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp GRAVE  &kp LCTRL  &kp LS(LBKT)  &kp LS(RBKT)  &kp LS(N9)  &kp LS(N0)  &kp LS(N4)  &kp LS(N1)  &kp EQUAL  &kp LS(EQUAL)  &kp LS(N8)  &kp MINUS  &kp LS(MINUS)  &kp LSHFT  &mt LEFT_GUI LS(NUMBER_2)  &mt LEFT_ALT LS(NUMBER_3)  &mt LCTRL LEFT_BRACKET  &mt LEFT_SHIFT RIGHT_BRACKET  &kp LS(GRAVE)  &kp LS(BSLH)  &mt RIGHT_SHIFT LS(N7)  &mt RCTRL LS(N5)  &mt RIGHT_ALT LS(NUMBER_6)  &mt RIGHT_GUI BACKSLASH  &kp RIGHT_SHIFT  &kp LEFT_ALT  &kp DEL  &kp ESC  &kp ENTER  &kp SPACE  &kp RIGHT_ALT
             >;
 
             label = "SYM";
