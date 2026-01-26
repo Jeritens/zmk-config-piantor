@@ -48,7 +48,7 @@
 
         layer_move {
             bindings = <
-&kp TAB  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &trans  &kp LCTRL  &trans  &trans  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &kp F11  &kp F12  &kp LSHFT  &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &trans  &trans  &kp RIGHT_SHIFT  &kp RCTRL  &kp RIGHT_ALT  &kp RIGHT_GUI  &trans  &trans  &kp BSPC  &to 4  &to 3  &kp SPACE  &trans
+&kp TAB  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &trans  &kp LCTRL  &trans  &trans  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &kp F11  &kp F12  &kp LSHFT  &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &trans  &kp C_PLAY_PAUSE  &mt RIGHT_SHIFT C_NEXT  &mt RCTRL C_PREV  &mt RIGHT_ALT C_VOLUME_UP  &mt RIGHT_GUI C_VOL_DN  &kp C_STOP  &trans  &kp BSPC  &to 4  &to 3  &kp SPACE  &trans
             >;
 
             label = "MOVE";
