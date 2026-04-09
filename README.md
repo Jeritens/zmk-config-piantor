@@ -30,3 +30,5 @@
 - [ ] mouse speed modification for better precision and speed
 - [ ] layer for gaming/gamedev (no home row mods, space bar)
 
+## standard Keyboard?
+A simmilar layout for standard keyboards can be found in my dotfile repo, done with kanata.
